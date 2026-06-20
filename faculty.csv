@@ -1,0 +1,202 @@
+﻿Faculty_ID,Name,Department,Max_Duties
+F001,Rahul Kumar_1,ECE,5
+F002,Dr. P.Gajalakshmi_2,CIVIL,4
+F003,Dr. M. A. Sai Balaji_3,MECH,3
+F004,Dr. M. Thirumurugan_4,MECH,4
+F005,Dr. S. Mohamed Illyas_5,MECH,6
+F006,Dr Y. Mohamed Shuaib_6,EEE,3
+F007,Kanmani M_7,ECE,6
+F008,Dr. A. Arockia Julias_8,MECH,4
+F009,D.Bala Gayathri_9,CSE,6
+F010,Dr. C.Vijayalakshmi_10,CSE,6
+F011,Dr. K.Yogeswari_11,CIVIL,5
+F012,Dr. S. Jeavudeen_12,MECH,5
+F013,Ms. C.Tamilarasi_13,CSE,3
+F014,Dr. J. Mahashar Ali_14,MECH,3
+F015,Dr. R.Zahira_15,EEE,5
+F016,Ms. M.Vetripriya_16,CSE,6
+F017,Dr. Belwin J. Brearley_17,EEE,5
+F018,Mr. S.N.Mohamed Irfan_18,ECE,5
+F019,Dr. N. Ravikumar_19,MECH,5
+F020,Dr. K.Sarmila Har Beagam_20,EEE,4
+F021,Dr. S. Suresh_21,EEE,4
+F022,Dr. A. K. Kaliluthin_22,CIVIL,3
+F023,Dr. V. Bharanigha_23,EEE,6
+F024,Dr. Nisha Khanam_24,CIVIL,5
+F025,Dr. D. Pradeep Kumar_25,MECH,3
+F026,Ms H.Kamarunnisha_26,CSE,4
+F027,Dr. A. Varun kumar_27,MECH,6
+F028,Dr. N.S.Shafeer Ahamed_28,CIVIL,4
+F029,Dr. K.Shafeeque Ahmed_29,EEE,3
+F030,Dr. Roopa V_30,CIVIL,4
+F031,Dr. K.Kanmani_31,CIVIL,3
+F032,Dr. M.Ayisha Sidiqua_32,CIVIL,4
+F033,Dr. J.Brindha Merin_33,CSE,6
+F034,Dr. S.Subhashini_34,CSE,6
+F035,Dr. Md. Javeed Ahmed_35,MECH,6
+F036,Mr. M. Balasrinivasan_36,MECH,4
+F037,Dr. Y.Ibrahim_37,CIVIL,4
+F038,Dr. V.Pramila_38,EEE,5
+F039,Mr. A.Sheik Farid_39,CIVIL,4
+F040,Mr. A.Manivannan_40,CIVIL,6
+F041,Dr. A.Radhika_41,CSE,4
+F042,Ms. C.Jeeva_42,CSE,3
+F043,Ms. R.Sivasankari_43,CSE,3
+F044,Dr. C. Sivakumar_44,MECH,5
+F045,Dr. T.Pandiyavathi_45,CSE,6
+F046,Dr. R.Sonia_46,CSE,4
+F047,Dr. P.Amudhavalli_47,CSE,6
+F048,Ms. A.Saraswathi_48,CSE,5
+F049,Dr. K.R. Shanmuga Vadivu_49,EEE,6
+F050,Mr. S. Loganathan_50,MECH,3
+F051,Dr. K. Asrar Ahmed_51,MECH,6
+F052,Dr. K. Sathickbasha_52,MECH,3
+F053,Mr. V.M.Niaz Ahamed_53,CSE,3
+F054,Dr. S.M.Shifana Rayesha_54,CSE,5
+F055,Dr. P.Abirami_55,EEE,6
+F056,Dr Mohamed Divan Masood M_56,CSE,3
+F057,Dr. V.Balaji_57,CSE,3
+F058,Dr. Niyati Kumari Behera_58,CSE,5
+F059,Ms. H.Faheem Nikhat_59,CSE,3
+F060,Dr. Peer Mohamed Ziyath_60,CSE,6
+F061,Dr. A.Alif Siddiqua Begum_61,CSE,4
+F062,Dr. M.Hazeen Fathima_62,CIVIL,5
+F063,Mrs. S. Muthahara Fathima_63,CSE,4
+F064,Ms. Nithya B_64,CSE,4
+F065,Ms. K.Sowmiya_65,CSE,3
+F066,Dr. N. Sirajudeen_66,MECH,6
+F067,Dr. R.Hannah Lalitha_67,EEE,6
+F068,Ms. M.S.Usha_68,CSE,6
+F069,Dr. T.Srividya_69,CIVIL,3
+F070,Dr. M.Vishal_70,CIVIL,3
+F071,Ms. P.Joy Kiruba_71,CSE,6
+F072,Mr. R.Ram Deepak_72,CSE,4
+F073,Dr. Mohd Umar_73,CIVIL,5
+F074,Dr. S.Priya_74,EEE,5
+F075,Dr. P.Elangovan_75,EEE,5
+F076,Ms. A.Nazreen_76,CSE,5
+F077,Dr. R.Asad Ahmed_77,AEROSPACE,6
+F078,Dr. K. Nallarasu_78,ECE,6
+F079,Dr. R.Durga Devi_79,EEE,3
+F080,Dr. P.Chandra Babu Naidu_80,EEE,6
+F081,Ms. P.Usha_81,CSE,3
+F082,Ms. R. Ramya_82,CSE,6
+F083,Dr. S.Varshavardhini_83,CSE,6
+F084,Dr. R.Karunanithi_84,AEROSPACE,5
+F085,Mrs. P.Sakthi_85,CSE,3
+F086,Dr. Syed Shaul Hameed_86,MECH,4
+F087,Dr. G.Aarthi_87,CSE,4
+F088,Dr. T.R.Akila Devi_88,CSE,4
+F089,Dr. S. Syed Muzafar Ahmed_89,EEE,3
+F090,Dr. S.Karthikeyan_90,AEROSPACE,6
+F091,Mrs. G.Safiya Begam_91,CSE,3
+F092,Ms. J.Gladys Aani Sujitha_92,CSE,6
+F093,Dr S.M.Satheesh_93,AEROSPACE,6
+F094,Dr. Divya vijay_94,EEE,6
+F095,Mr. S.Ajmal Mohamed_95,CSE,5
+F096,Ms. R.Padmapriya_96,CSE,6
+F097,Dr. V.Dinesh Babu_97,AEROSPACE,6
+F098,"
+Ms. K.Sowmiya_98",CSE,6
+F099,Ms. V.Archana_99,CSE,3
+F100,Mrs. S.Nandhini Devi_100,CSE,5
+F101,Dr. Mohammed Wajid Khan_101,CSE,5
+F102,Dr. G. Rajesh_102,MECH,5
+F103,Ms. M.Shirin Ayisha Maryam_103,ECE,3
+F104,Dr. I.Karthiga_104,CSE,3
+F105,Ms. T.Valliammai_105,CSE,4
+F106,Suresh Reddy_106,EEE,6
+F107,Ms. A.Snegaa_107,CSE,4
+F108,Dr. M. Pervaz Ahmed_108,MECH,4
+F109,Mr. S.Venkatramanan_109,AEROSPACE,3
+F110,Dr. M. Abdur Rahman_110,MECH,4
+F111,Dr. Serajul Haque_111,MECH,4
+F112,Ms. S.Suberiya Begum_112,CSE,3
+F113,Ms. G.Abirami_113,CSE,3
+F114,Arun Nair_114,ECE,3
+F115,Priya Nair_115,ECE,4
+F116,Mr. S.R.Senthilkumar_116,CSE,4
+F117,Mr. M.Mohammed Zubair_117,CSE,5
+F118,Dr. N.I.Haroon Rashid,AEROSPACE,3
+F119,Mr. S.Abdul Karim_119,CSE,3
+F120,Dr. T.Kamalesh_120,PHYSICS,3
+F121,Dr. J.Sivasankari_121,PHYSICS,5
+F122,Ms. M.Latha_122,CSE,6
+F123,Dr. Ravi Kumar_123,MECH,5
+F124,Dr Mohamed Bak Kamaludeen_124,MECH,3
+F125,Mrs. L.Priya_125,CSE,3
+F126,Dr. I.Sathik Ali_126,IT,5
+F127,Ms. P. Valarmathi_127,CSE,4
+F128,Ms. A.Soundariya_128,CSE,5
+F129,Mrs. R.Mahalakshmi_129,CSE,4
+F130,Mr. M.A.Mohamed Zubair Aslam_130,CSE,3
+F131,Dr. Parnasree Chakraborty_131,ECE,6
+F132,Dr. Kogila N_132,COMMERCE,4
+F133,Dr. N. Vijayakumar_133,COMMERCE,4
+F134,Dr. G.Kavitha_134,IT,4
+F135,Dr. Kabeer M_135,IT,3
+F136,Ms. A.Sulthana Rashya Begam_136,CSE,5
+F137,Dr. V. Jean Shilpa_137,ECE,4
+F138,Dr. P. Latchoumy_138,IT,5
+F139,Mr. E.Arumugam_139,EEE,6
+F140,Ms. K. Subashini_140,IT,6
+F141,Dr. B.Ziavuddeen_141,COMMERCE,5
+F142,Dr. M.Lakshmipriya_142,PHYSICS,6
+F143,Dr. M.Vanmathi_143,ECE,5
+F144,Dr. S. Anusooya_144,ECE,3
+F145,Mr. P.Nehru_145,CSE,3
+F146,Dr. A.Ambika_146,ECE,6
+F147,Dr. N. Rajendran_147,IT,5
+F148,Dr. C.Srinivasan_148,COMMERCE,5
+F149,Dr. K.Indra Gandhi_149,ECE,4
+F150,Dr. S.Kalaivani_150,ECE,3
+F151,Ms. S.Hemalatha_151,CSE,5
+F152,Dr. Sibghatullah Nasir_152,COMMERCE,3
+F153,Dr. A.N.Arularasan_153,CSE,3
+F154,Dr. A. Priya_154,ECE,6
+F155,Dr. Nabeena Ameen_155,IT,5
+F156,Dr. P. Gnanasekaran_156,IT,6
+F157,Dr. B.Dhanalakshmi_157,CSE,3
+F158,Dr. E.A.K.Nivethaa_158,PHYSICS,6
+F159,Karthik Das_159,MECH,3
+F160,Dr. R.Anitha_160,ECE,3
+F161,Dr. M. Vijayajayanthi_161,PHYSICS,5
+F162,Dr. M.Mohammed Thaha_162,CSE,3
+F163,Dr. S. Syed Rafiammal_163,ECE,4
+F164,Dr. S.Syed Abdul Syed_164,CSE,4
+F165,Dr. S.P.Valli_165,CSE,6
+F166,Hasan Babu H_166,ECE,5
+F167,Dr. S.Farzana_167,COMMERCE,4
+F168,Dr. S.Revathi_168,CSE,3
+F169,Dr. R.Amiruddin_169,PHYSICS,6
+F170,Dr. A.Sonya_170,IT,6
+F171,Dr. R.Indirajith_171,PHYSICS,5
+F172,Mrs. J.Dafini_172,POLYMER,4
+F173,Dr. J.Shahitha Parveen_173,POLYMER,5
+F174,Dr. R. Iniyavan_174,ECE,3
+F175,Dr. E.Syed Mohamed_175,CSE,4
+F176,Dr. V.MuthuPriya_176,CSE,6
+F177,Dr. J.Shahitha Parveen_177,POLYMER,5
+F178,Dr. S.Sharon Priya_178,CSE,3
+F179,Ms.F L Dixy_179,CSE,5
+F180,Dr. M. Padma Usha_180,ECE,4
+F181,Dr. Basanta Kumar Behera_181,POLYMER,3
+F182,Dr. L.Arun Raj_182,CSE,3
+F183,Dr. A.Gurusamy_183,AUTOMOBILE,6
+F184,S. Sadhish Prabhu_184,ECE,3
+F185,Dr. R. Mahalakshmi _185,ECE,4
+F186,Dr. N.Indumathi_186,COMMERCE,4
+F187,Dr. M.Mohamed Sheik Sirajuddeenr_187,PHYSICS,4
+F188,Dr. A.Gurusamy_188,AUTOMOBILE,3
+F189,Dr. C.Hema_189,CSE,4
+F190,Dr. C.Dineshkumar_190,AUTOMOBILE,6
+F191,Dr. C.K. Arvinda Pandian_191,AUTOMOBILE,4
+F192,Dr. B. Sivashanmugavalli_192,ECE,3
+F193,M. Selvakumar_193,ECE,6
+F194,Dr. T. R. Tamilarasan_194,AUTOMOBILE,3
+F195,Dr. A.Harikumar_195,COMMERCE,5
+F196,A. Ramesh Kumar_196,ECE,6
+F197,Dr. A.Fathima_197,COMMERCE,6
+F198,Dr. R.Akila_198,CSE,4
+F199,Dr. S.Rajini_199,COMMERCE,3
+F200,Dr. Madhina Banu_200,CSE,4
