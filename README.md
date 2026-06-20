@@ -21,6 +21,16 @@ An automated exam invigilation scheduling system developed using Python and Gene
 - availability.csv
 - exam_hall.csv
 - exam_inv_hall.py
+- ## Output Screenshots
+
+### Home Page
+(Screenshot here)
+
+### Generated Examination Schedule
+(Screenshot here)
+
+### Faculty Replacement Module
+(Screenshot here)
 
 ## Author
 Cibiksha V
