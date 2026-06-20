@@ -32,7 +32,8 @@ An automated exam invigilation scheduling system developed using Python and Gene
 
 
 ### Faculty Replacement Module
-![Uploading image.png…]()
+<img width="945" height="413" alt="image" src="https://github.com/user-attachments/assets/6df35a91-35c1-4678-a963-c44a41b464ca" />
+
 
 
 ## Author
